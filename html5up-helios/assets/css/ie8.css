@@ -6,6 +6,11 @@
 
 /* Basic */
 
+.photo {
+    height: 30px;
+    width: 30px;
+}
+
 	a {
 		border-bottom: solid 1px #ddd;
 	}
